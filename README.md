@@ -107,12 +107,5 @@ Gemini_API_KEY="YOUR_API_KEY"
 
 Your generosity is greatly appreciated! Thank you for supporting this project.
 
-# Connect with me
-
-[![](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@CodingMeet26?si=FuKwU-aBaf_5kukR)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-meet-a74933273/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CodingMeet)
-
-# Author
 
 **Meet**
